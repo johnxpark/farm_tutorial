@@ -2,7 +2,7 @@
 
 freeCodeCamp.org의 [Youtube(FARM Stack Course - FastAPI, React, MongoDB)](https://www.youtube.com/watch?v=OzUzrs8uJl8) 학습 결과물입니다.
 
-FastAPI를 MongoDB Atlas와 연동하여 백엔드를 구축하여 CRUD 게시판을 생성하는 것이 목적입니다.
+FastAPI를 MongoDB Atlas와 연동하여 백엔드를 구축하여 CRUD 기능을 구현하는 것이 목적입니다.
 
 블로그 글 작성을 위해 최소한의 코드만 작성하여 추후 프로젝트 보완이 필요합니다.
 
